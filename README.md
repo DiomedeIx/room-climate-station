@@ -4,7 +4,7 @@ An Arduino-based climate monitor for my game room. It reads temperature and humi
 
 This was my first electronics project, built from scratch with an Elegoo starter kit.
 
-![Finished build](images/build.jpg)
+![Finished build](images/Climate-temp.jpg)
 
 ---
 
